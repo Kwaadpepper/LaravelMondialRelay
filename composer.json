@@ -1,9 +1,13 @@
 {
   "name": "kwaadpepper/laravel-mondialrelay",
   "description": "Client Laravel pour l'API Mondial Relay",
-  "keywords": ["laravel", "mondial relay", "api"],
+  "keywords": [
+    "laravel",
+    "mondial relay",
+    "api"
+  ],
   "require": {
-    "illuminate/support": "5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+    "illuminate/support": "5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
     "quentinbontemps/php-mondialrelay-api": "^1.0"
   },
   "type": "library",
